@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+section{
+    display: inline;
+}
+
+.divs{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    float: left;
+}
+
+#sessao1{
+    float: left;
+    position: absolute;
+}
+
+#sessao2{
+    float: left;
+    position: absolute;
+    top: 72px;
+    left: 0px;
+}
+
+#sessao3{
+    float: left;
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+
+#sessao4{
+    float: right;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#sessao5{
+    float: right;
+    position: absolute;
+    bottom: 72px;
+    right: 0px;
+}
+
+#sessao6{
+    float: right;
+    position: absolute;
+    bottom: 144px;
+    right: 0px;
+}
+
+.divs{
+    margin-bottom: 3px;
+    margin-left: 3px;
+}
+
+#btn{
+    float: left;
+    position: absolute;
+    left: 50%;
+}
