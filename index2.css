@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    border: 0px;
+}
+
+section{
+    width: 90vw;
+    height: 100vh;
+}
+
+.quadro{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+}
+
+#qd1{
+    float: left;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+#qd2{
+    float: left;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+#qd3{
+    float: left;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+#qd4{
+    float: left;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.btn-meio{
+    display: block;
+    margin: auto;
+}
