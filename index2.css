@@ -46,3 +46,9 @@ section{
     display: block;
     margin: auto;
 }
+
+.btn-meio-baixo{
+    display: block;
+    bottom: 0px;
+    margin: auto;
+}
